@@ -55,4 +55,4 @@ branch.
    it gets approved
 7. Merge the pull request into main
 8. Don't forget to `git pull` inside the main branch on your local machine
-9. Delete the new branch on GitHub and locally
+9. Delete the new branch on GitHub and locally.
