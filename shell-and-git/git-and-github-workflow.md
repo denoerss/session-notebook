@@ -1,10 +1,6 @@
 # Git and GitHub Workflow
 
-<<<<<<< HEAD
 ## Once in the shellgit
-=======
-## Once in the shell
->>>>>>> refs/remotes/origin/main
 
 > git init # -- create a repo (once per project) <br>
 > don't forget to add a .gitignore file <br>
@@ -28,7 +24,7 @@
 - Merge and delete the branch on GitHub <br>
 - Continue in the shell <br>
 
-## Again in the shell <br>
+## Again in the shell <br>git
 
 > git switch main <br>
 > git pull # get the merged commits in your local main <br>
