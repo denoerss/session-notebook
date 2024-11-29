@@ -1,6 +1,10 @@
 # Git and GitHub Workflow
 
+<<<<<<< HEAD
 ## Once in the shellgit
+=======
+## Once in the shell
+>>>>>>> refs/remotes/origin/main
 
 > git init # -- create a repo (once per project) <br>
 > don't forget to add a .gitignore file <br>
