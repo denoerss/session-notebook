@@ -1,6 +1,6 @@
 # Git and GitHub Workflow
 
-## Once in the shell
+## Once in the shellgit
 
 > git init # -- create a repo (once per project) <br>
 > don't forget to add a .gitignore file <br>
