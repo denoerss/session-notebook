@@ -24,7 +24,7 @@
 - Merge and delete the branch on GitHub <br>
 - Continue in the shell <br>
 
-## Again in the shell <br>git
+## Again in the shell <br>
 
 > git switch main <br>
 > git pull # get the merged commits in your local main <br>
